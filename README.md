@@ -64,8 +64,11 @@ __Проблема__
 - проектирование аналитических дашбордов.
 
 **Предварительный просмотр**
+
 **Главная страница**
 ![Dashboard](images/dashboard.jpeg)
+
 **Демонстрация динамического переключения KPI с использованием Field Parameters**
-![Dynamic KPI](images/kpi_gif.gif)
+![Dynamic KPI](images/KPI_gif.gif)
+
 **Модель данных**
